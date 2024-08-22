@@ -1,7 +1,5 @@
 # Laravel 11 + React SPA Project
-A simple project management application using Laravel 11 and React.
-
-The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouTube tutorial.
+A project management application using Laravel 11 and React.
 
 ## Features
 1. Registration & Login
@@ -24,6 +22,4 @@ The project was developed for [the following](https://youtu.be/VrQRa-afCAk) YouT
 8. Start vite server - `npm run dev`
 9. Start Artisan server - `php artisan serve`
 
-## Demo
-Coming soon...
 
